@@ -3,7 +3,16 @@
     <types>
         <members>BacthTemplate</members>
         <members>BatchTemplateTest</members>
-
+        <members>Bai1Batch</members>
+        <members>Bai2Batch</members>
+        <members>Bai3Batch</members>
+        <members>Bai4Batch</members>
+        <members>Bai5Batch</members>
+        <members>Bai6Batch</members>
+        <members>Bai7Batch</members>
+        <members>Bai8Batch</members>
+        <members>Bai9Batch</members>
+        <members>Bai10Batch</members>
         <name>ApexClass</name>
     </types>
  <!--

@@ -20,11 +20,11 @@ Dưới đây là 10 bài tập giúp bạn làm quen dần với Batch Apex tro
 
 ---
 
-## 3. Xóa Lead có `Status = 'Inactive'`
+## 3. Xóa Lead có `Closed - Not Converted'`
 **Mục tiêu:** Batch delete.
-- `start`: Query `SELECT Id FROM Lead WHERE Status = 'Inactive'`
+- `start`: Query `SELECT Id FROM Lead WHERE Status = 'Closed - Not Converted'`
 - `execute`: `delete scope`
-- `finish`: Log `"Đã xóa xong Lead Inactive"`
+- `finish`: Log `"Đã xóa xong Lead Closed - Not Converted"`
 
 ---
 
